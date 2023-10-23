@@ -1,6 +1,5 @@
 
-interested in cybersecurity
-currently learning java
+
 
 
 <!---
